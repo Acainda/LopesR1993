@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\GithubTestes\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\ruben\\Source\\Repos\\TestesDoGithub\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\GithubTestes\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\ruben\\Source\\Repos\\TestesDoGithub\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\GithubTestes\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\ruben\\Source\\Repos\\TestesDoGithub\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Projects\\GithubTestes\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\ruben\\Source\\Repos\\TestesDoGithub\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\GithubTestes\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\ruben\\Source\\Repos\\TestesDoGithub\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

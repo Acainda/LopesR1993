@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "khnud402WV98qWnGbfJfk/smvQFb8m+KrDdd1HYUoPxqsvnZDJwehxAratt6enqpNuwsn8eHCKxu7ZvNlEm4DA==",
+  "dgSpecHash": "zMshVah4LDs8o4oRUZvylY6YBiuCr/UDIeI4HW8mClAEXKdY89hvH2PZD4wBtzP5ypFQrbMJ7o7MuP3py1VQUQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\GithubTestes\\ConsoleApp\\ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\ruben\\Source\\Repos\\TestesDoGithub\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ruben\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
     "C:\\Users\\ruben\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
